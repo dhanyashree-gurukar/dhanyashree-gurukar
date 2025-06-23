@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm **Dhanyashree H S**  
+# Hi 👋, I'm **Dhanyashree H S**  
 🎓 Pre-Final Year Computer Science & Engineering Student  
 🌟 Passionate about Web Development, Career-Tech, and Smart Solutions  
 📫 Reach out: **dhanyashreesgurukar@gmail.com**
@@ -8,7 +7,9 @@ Hi 👋, I'm **Dhanyashree H S**
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
