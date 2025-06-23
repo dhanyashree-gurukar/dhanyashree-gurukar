@@ -6,18 +6,16 @@
 ---
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404D59?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ ![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+ ![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/express.js-404D59?style=flat-square)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -31,11 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyashree-gurukar&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
   <img src="https://github-contributor-stats.vercel.app/api?username=dhanyashree-gurukar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos" width="48%" />
 </p>
-
----
-
-## 🌐 Let's Connect!
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhanyashreesgurukar@gmail.com)
 
 ---
 
